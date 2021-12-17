@@ -39,7 +39,7 @@ function TabPostagem() {
             <Grid alignItems="center" item xs={6}>
               <Box padding={10}>
               <Typography variant="h5" gutterBottom component="h5" align="center" className='title-1'>O CodeBlog é uma plataforma de postagens, da qual o usuário poderá publicar e compartilhar suas duvidas
-                e até mesmo conhecimentos em relação ao mundo da proramação! O objetivo é tornar os desenvolvedores e estudantes mais antenados no dia a dia da Técnologia da Informação. Onde tal
+                e até mesmo conhecimentos em relação ao mundo da programação! O objetivo é tornar os desenvolvedores e estudantes mais antenados no dia a dia da Técnologia da Informação. Onde tal
                 tem liberdade de contribuir com seus conhecimentos.
               </Typography>
               </Box>
