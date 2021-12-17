@@ -1,0 +1,49 @@
+.text-decorator-none {
+    text-decoration: none;
+}
+
+.grid-login {
+    background-color: #3f4247;
+}
+
+.text-bold-login {
+    font-weight: bold !important;
+    color: white;
+}
+
+.text-bold-login:hover {
+    color: #4c63fc;
+    transition: 280ms;
+}
+
+.text-login {
+    color: white;
+}
+
+.grid-imagem-login {
+    background-image: url(https://i.imgur.com/EHNwYjA.jpg);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.botao-logar {
+    font-weight: bold !important;
+}
+
+/* Estilizar o AutoFill */
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover,
+textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+  -webkit-text-fill-color: white;
+  -webkit-box-shadow: 0 0 0px 1000px #212227 inset;
+  transition: background-color 5000s ease-in-out 0s;
+}

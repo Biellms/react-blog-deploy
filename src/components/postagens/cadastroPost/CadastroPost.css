@@ -1,0 +1,30 @@
+.topo{
+    margin-top: 20px;
+}
+
+.box-atualizar-postagem {
+    border-radius: 15px;
+    background-color: #212227;
+}
+
+.card-atualizar {
+    background-color: #212227 !important;
+    border-color: white !important;
+    height: 15cm !important;
+}
+
+.botao-finalizar {
+    margin-top: 55px !important;
+}
+
+.botao-finalizar-color:hover {
+    background-color: #253285 !important;
+}
+
+.helper {
+    color: white !important;
+}
+
+.label {
+    color: white !important;
+}

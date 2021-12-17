@@ -1,0 +1,27 @@
+.grid-login {
+  background-color: #3f4247;
+  height: 70vh;
+}
+
+.title-1 {
+  color: white !important;
+  font-weight: bold !important;
+}
+
+.botao {
+  border-color: white !important; 
+  background-color: #303235 !important; 
+  color: white !important;
+}
+
+.botao:hover {
+  background-color: #4f4f50 !important; 
+}
+
+.postagens {
+  background-color: #3f4247;
+}
+
+.text-decorator-none {
+  text-decoration: none;
+}

@@ -1,0 +1,37 @@
+.text-decorator-none {
+  text-decoration: none;
+}
+  
+.text-navbar {
+  font-family: arial black !important;
+}
+
+.text-navbar:hover {
+  color: rgb(112, 111, 111);
+  transition: 0.3s ease-out;
+}
+  
+.appbar {
+  background-color: #212227;
+  height: 2cm;
+  justify-content: space-around;
+  box-shadow:  0 0 15px rgb(43, 42, 42);
+}
+
+.pointer {
+  cursor: pointer;
+  color: white;
+  margin-right: 300px;
+}
+
+.txtmenu {
+  font-family: Arial black;
+  color: white;
+  text-decoration: none;
+  list-style: none;
+}
+
+.txtmenu:hover {
+  color: rgb(105, 104, 104);
+  transition: 0.3s ease-out;
+}

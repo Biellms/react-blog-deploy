@@ -1,0 +1,33 @@
+.footer-container {
+    background-color: #212227;
+    padding-bottom: 4rem;
+    box-shadow:  0 0 15px rgb(27, 27, 27);
+    margin-top: 28px;
+  }
+  
+ .titulo-f {
+   color: white;
+   font-family: inherit;
+   font-weight: 500;
+   font-size: 1.5rem;
+ }
+
+ .p-f {
+  color: white;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 1.1rem;
+  /* text-decoration: none; */
+  list-style: none;
+ }
+
+ .p-f a{
+  color: white;
+  text-decoration: none;
+  list-style: none;
+ }
+
+ .p-f a:hover{
+  color: rgb(112, 111, 111);
+  transition: 0.3s ease-out;
+ }

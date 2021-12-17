@@ -1,0 +1,47 @@
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.card-tema {
+    width: 280px;
+    height: 160px;
+    background-color: #212227 !important;
+    border-color: white !important;
+}
+
+.text-bold {
+    font-weight: bold !important;
+    color: white !important;
+}
+
+.text-tema {
+    color: white !important;
+}
+
+.botao-deletar {
+    font-weight: bold !important;
+    background-color: rgb(207, 55, 55) !important;
+    color: white !important;
+}
+
+.botao-deletar:hover {
+    background-color: rgb(136, 36, 36) !important;
+}
+
+.botao-atualizar {
+    font-weight: bold !important;
+}
+
+.botao-atualizar:hover {
+    background-color: #253285 !important;
+}
+
+.container-tema {
+    display: flex;
+    justify-content: center;    
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 5vw;
+    margin-left: 15%;
+    margin-right: 15%;
+}

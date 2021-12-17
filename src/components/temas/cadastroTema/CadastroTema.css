@@ -1,0 +1,25 @@
+.topo{
+    margin-top: 30px;
+}
+
+.box-cadastrar-tema {
+    border-radius: 15px;
+    background-color: #212227;
+}
+
+.botao-finalizar {
+    margin-top: 50px;
+}
+
+.text-bold {
+    color: white !important;
+}
+
+.botao-finalizar-color:hover {
+    background-color: #253285 !important;
+}
+
+.card-tema-cadastro {
+    background-color: #212227 !important;
+    border-color: white !important;
+}
